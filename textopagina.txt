@@ -1,0 +1,34 @@
+header
+LOGO tipo		Home História	Quartos	Atividades	Galeria de fotos 	Localização
+
+section
+Rancho Papillon
+Um lugar para viver transformações
+São Francisco de Paula
+"Botão" Reservar
+
+section
+div
+h2	Um lugar para você se encontrar com a natureza!
+
+
+div
+Localizado em São Francisco de Paula, o rancho Papillon fica a 5km do centro da cidade, imerso no coração da natureza, cercado por montanhas que proporcionam uma vista de encher os olhos. Suas trilhas que lhe levam ao rio, proporcionam a você, uma caminhada reflexiva para busca de sua natureza.
+
+div
+iframe com previsão do tempo para os dias.
+
+div
+com três cardes: quartos, animais atividades
+
+div
+mais uma foto fixa
+botão para reservas
+
+div
+com o googlemaps
+
+footer
+contato
+localização
+redes sociais

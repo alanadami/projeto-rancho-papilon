@@ -113,7 +113,12 @@ header > nav > a:hover{
     cursor: pointer;
 }
 .corpo{
+    /*
     justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    */
 }
 
 .corpo > h2{
@@ -137,8 +142,9 @@ header > nav > a:hover{
     padding: 15px;
     padding-top: 30px;
     max-width: 600px;
-    
     height: 220px;
+    align-content: center;
+    justify-content: center;
   
 }
 
@@ -147,25 +153,28 @@ header > nav > a:hover{
 .cards{
     display: grid;
     grid-template-columns: 1fr;
-    justify-content: center;
     justify-items: center;
 
 }
 /* QUARTOS*/
 .quartos{
     margin-top: 30px;
-    width: 300px;
+    width: 330px;
     height: 400px;
     box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.377);
     border-radius: 20px;
     background-image: url(../img/quarto_h600.jpg);
     background-size: cover;
     color: wheat;
-    align-content: center;
+    text-align: center;
+    
+
     
 }
 
-.quartos > h3{
+
+
+.quartos > h2, h3{
     text-align: center;
     margin-top: 30px;
     color: white;
@@ -181,6 +190,7 @@ header > nav > a:hover{
     background-color: orangered;
     border: none;
     cursor: pointer;
+
     
 
 }
@@ -194,7 +204,7 @@ header > nav > a:hover{
 
 .animais{
     margin-top: 30px;
-    width: 300px;
+    width: 330px;
     height: 400px;
     box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.377);
     border-radius: 20px;
@@ -202,10 +212,11 @@ header > nav > a:hover{
     background-size: cover;
     color: wheat;
     align-content: center;
+    text-align: center;
     
 }
 
-.animais > h3{
+.animais > h2, h3{
     text-align: center;
     margin-top: 30px;
     color: white;
@@ -234,7 +245,7 @@ header > nav > a:hover{
 
 .atividades{
     margin-top: 30px;
-    width: 300px;
+    width: 330px;
     height: 400px;
     box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.377);
     border-radius: 20px;
@@ -242,10 +253,11 @@ header > nav > a:hover{
     background-size: cover;
     color: wheat;
     align-content: center;
+    text-align: center;
     
 }
 
-.atividades > h3{
+.atividades > h2, h3{
     text-align: center;
     margin-top: 30px;
     color: white;
@@ -307,7 +319,12 @@ header > nav > a:hover{
 
 .mapa{
     margin-top: 50px;
+    text-align: center;
+
+    
 }
+
+
 
 footer{
     margin-top: 50px;

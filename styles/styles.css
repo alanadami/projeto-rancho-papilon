@@ -314,6 +314,16 @@ footer{
     grid-template-columns: 1fr;
 
 }
+footer > p{
+    margin-left: 32%;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+footer > P > a{
+    text-decoration: none;
+    
+}
 
 footer > h3{
     text-align: center;
@@ -322,3 +332,10 @@ footer > h3{
     font-style: italic;
 }
 
+footer > a> i{
+    color: white;
+}
+
+.cor{
+    color: white;
+}

@@ -116,6 +116,10 @@ header > nav > a:hover{
     justify-items: center;
 }
 
+.corpo > h2{
+    font-family: var(--fonte-padrao);
+}
+
 .frase{
     height: 100px;
     background-color: var(--cor3);

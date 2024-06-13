@@ -347,8 +347,12 @@ header > nav > a:hover{
 .mapa{
     margin-top: 50px;
     text-align: center;
+       
+}
 
-    
+.mapa > iframe{
+    width: 100vw;
+ 
 }
 
 
